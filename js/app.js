@@ -59,7 +59,7 @@
                     <div class="item-text">
                         <p id="cart-item-title" class="font-weight-bold mb-0">${item.name}</p>
                         <span>$</span>
-                        <span id="cart-item-price" class="cart-item-price" class="mb-0">${item.price}</span>
+                        <span id="cart-item-price" class="cart-item-price mb-0">${item.price}</span>
                         </div>
                         <a href="#" id='cart-item-remove' class="card-item-remove">
                         <i class="fas fa-trash"></i>
@@ -97,3 +97,4 @@
     
 }
 })();
+

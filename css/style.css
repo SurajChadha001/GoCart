@@ -182,7 +182,7 @@ info icons */
     color: var(--mainWhite);
 }
 .store-item-value{
-    color: --mainYellow;
+    color: -var(--mainYellow);
 }
 /*end of  store items */
 .search-box{
