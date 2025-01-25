@@ -1,6 +1,4 @@
 ```markdown
-![image](https://github.com/user-attachments/assets/ebfd5fb1-16b0-4ecd-a57e-5cac5740aa67)
-
 # Shopping Cart Website
 
 This repository hosts a simple shopping cart website built using HTML, CSS, and JavaScript. The project aims to demonstrate essential e-commerce features, providing a foundation for more advanced functionalities.
